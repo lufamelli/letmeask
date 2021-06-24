@@ -13,6 +13,17 @@
             > img {
                 min-height: 45px;
             }
+
+            > div{
+                display: flex;
+                align-items: center;
+                gap: 16px;
+
+                button {
+                    height: 20px;
+                    font-size: 12px;
+                }
+            }
         }
     }
 
@@ -96,6 +107,10 @@
                     }
                 }
             }
+        }
+
+        .question-list {
+            margin-top: 32px;
         }
     }
 }
