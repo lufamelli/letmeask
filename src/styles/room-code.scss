@@ -1,5 +1,5 @@
 .room-code {
-    height:20px;
+    height:1.25rem;
     border-radius: 4px;
     overflow:hidden;
     background: #fff;
@@ -9,7 +9,7 @@
 
     > div  {
         background: #835afd;
-        padding: 0 12px;
+        padding: 0 0.75rem;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -19,9 +19,9 @@
         display: block;
         align-self: center;
         flex: 1;
-        padding: 0 16px 0 12px;
-        width: 190x;
-        font-size: 12px;
+        padding: 0 1rem 0 0.75rem;
+        width: 11.875rem;
+        font-size: 0.75rem;
         font-weight: 500;
 
     }
